@@ -7,10 +7,12 @@ Here are some ideas to get you started:
 -->
 <!-- - 🔭 I’m currently working on todo app -->
 - 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on JS Projects 
-<!--
+- 👯 I’m looking to collaborate on JS Projects
+- ⚡ Fun fact: Proud employee of Modern Day IT systems
+
+<!---
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: 
-- 😄 Pronouns: ... -->
-- ⚡ Fun fact: Proud employee of Modern Day IT systems
+- 😄 Pronouns: ...    
+- -->
